@@ -4,14 +4,14 @@ I'm pursuing entry-level help desk and IT support opportunities. My portfolio sh
 
 ## Featured portfolio
 
-**[Explore my IT Support Portfolio](https://github.com/DSGTEC11/it-support-portfolio)**
+**[Explore my IT Portfolio](https://github.com/DSGTEC11/it-portfolio)**
 
 | Project | What to review |
 | --- | --- |
-| [Windows system baseline](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/01-windows-baseline) | Actual system, storage and security observations with a PowerShell collector |
-| [Jira Service Management](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/02-jira-service-management) | Real ticket workflow practice using fictional support scenarios |
-| [Network diagnostics](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/03-network-diagnostics) | Actual gateway, DNS, TCP and HTTPS checks with sanitized results |
-| [Windows event-log investigation](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/04-event-log-investigation) | Correlated warning and recovery events, with verification limits documented |
+| [Windows system baseline](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/01-windows-baseline) | Actual system, storage and security observations with a PowerShell collector |
+| [Jira Service Management](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/02-jira-service-management) | Real ticket workflow practice using fictional support scenarios |
+| [Network diagnostics](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/03-network-diagnostics) | Actual gateway, DNS, TCP and HTTPS checks with sanitized results |
+| [Windows event-log investigation](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/04-event-log-investigation) | Correlated warning and recovery events, with verification limits documented |
 
 ## Support approach
 
