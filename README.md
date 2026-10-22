@@ -19,6 +19,11 @@ I use this GitHub to share what I've tested, what I found, and what I learned al
 - I keep instructions clear enough for someone else to follow.
 - I separate confirmed findings from possible causes before recommending a change.
 
+### Fun facts
+
+- I enjoy anime, and **One Piece** is one of my all-time favorites.
+- I don't like the smell of peanut butter.
+
 **[Explore my projects and evidence →](https://github.com/DSGTEC11/it-portfolio)**
 
 I'm open to **entry-level help desk and IT support roles**.
