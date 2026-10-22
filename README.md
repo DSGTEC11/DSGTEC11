@@ -1,32 +1,24 @@
-# Help Desk & IT Support Portfolio
+# DeCarlos Griffin
 
+I'm pursuing entry-level help desk and IT support opportunities. My portfolio shows practical Windows diagnostics, Jira ticket management, and clear troubleshooting documentation.
 
-I’m pursuing entry-level help desk and IT support opportunities. This GitHub is where I’m building clear support documentation and organizing practical learning.
+## Featured portfolio
 
+**[Explore my IT Support Portfolio](https://github.com/DSGTEC11/it-support-portfolio)**
 
-## Portfolio
+| Project | What to review |
+| --- | --- |
+| [Windows system baseline](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/01-windows-baseline) | Actual system, storage and security observations with a PowerShell collector |
+| [Jira Service Management](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/02-jira-service-management) | Real ticket workflow practice using fictional support scenarios |
+| [Network diagnostics](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/03-network-diagnostics) | Actual gateway, DNS, TCP and HTTPS checks with sanitized results |
+| [Windows event-log investigation](https://github.com/DSGTEC11/it-support-portfolio/tree/main/labs/04-event-log-investigation) | Correlated warning and recovery events, with verification limits documented |
 
+## Support approach
 
-**[IT Support Portfolio](https://github.com/DSGTEC11/it-support-portfolio)** — troubleshooting runbooks, a reusable support ticket template, and a Windows lab roadmap.
+Understand the issue, establish scope and impact, collect evidence, make authorized changes, verify the result, and document or escalate clearly.
 
+## What this work represents
 
-## Focus areas
+These are personal learning projects. Each lab distinguishes actual results from proposed troubleshooting or fictional scenarios. Scripts, sanitized evidence and lessons learned are included. Draft guides and future work are listed separately in the portfolio.
 
-
-- Windows troubleshooting and system information
-- Network connectivity, IP addressing, and DNS fundamentals
-- User accounts, access requests, and safe escalation
-- Clear ticket notes and helpful end-user communication
-
-
-## My support approach
-
-
-Understand the issue → establish scope and impact → check simple causes → test one change at a time → verify with the user → document and escalate when needed.
-
-
-## Learning in public
-
-
-This portfolio is a work in progress. Templates, illustrative scenarios, and planned labs are labeled clearly. Completed lab results will include the environment, observations, validation, and lessons learned.
-
+**Open to entry-level help desk and IT support opportunities.**
