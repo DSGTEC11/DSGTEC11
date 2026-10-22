@@ -1,24 +1,24 @@
-# DeCarlos Griffin
+# Hi there! 👋
 
-I'm pursuing entry-level help desk and IT support opportunities. My portfolio shows practical Windows diagnostics, Jira ticket management, and clear troubleshooting documentation.
+I'm **DeCarlos Griffin**, an Information Technology graduate pursuing entry-level help desk and IT support opportunities.
 
-## Featured portfolio
+My focus is understanding technical problems, working through the evidence, and explaining the next steps clearly. My hands-on projects cover Windows diagnostics, network connectivity, event-log investigations, and Jira Service Management workflows.
 
-**[Explore my IT Portfolio](https://github.com/DSGTEC11/it-portfolio)**
+I use this GitHub to share what I've tested, what I found, and what I learned along the way. You'll find repeatable PowerShell scripts, sanitized results, and troubleshooting notes in my **[IT Portfolio](https://github.com/DSGTEC11/it-portfolio)**.
 
-| Project | What to review |
-| --- | --- |
-| [Windows system baseline](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/01-windows-baseline) | Actual system, storage and security observations with a PowerShell collector |
-| [Jira Service Management](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/02-jira-service-management) | Real ticket workflow practice using fictional support scenarios |
-| [Network diagnostics](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/03-network-diagnostics) | Actual gateway, DNS, TCP and HTTPS checks with sanitized results |
-| [Windows event-log investigation](https://github.com/DSGTEC11/it-portfolio/tree/main/labs/04-event-log-investigation) | Correlated warning and recovery events, with verification limits documented |
+### What I've been working on
 
-## Support approach
+- **Windows diagnostics** — collecting system information and checking storage and security settings.
+- **Networking** — checking gateway reachability, DNS, TCP connections, and HTTPS responses.
+- **Event logs** — connecting warnings with nearby events and documenting what remains uncertain.
+- **Jira Service Management** — practicing ticket ownership, priorities, internal notes, escalation, and closure using fictional support cases.
 
-Understand the issue, establish scope and impact, collect evidence, make authorized changes, verify the result, and document or escalate clearly.
+### A few things about my approach
 
-## What this work represents
+- I document actual results, including when a check fails or leaves a question unanswered.
+- I keep instructions clear enough for someone else to follow.
+- I separate confirmed findings from possible causes before recommending a change.
 
-These are personal learning projects. Each lab distinguishes actual results from proposed troubleshooting or fictional scenarios. Scripts, sanitized evidence and lessons learned are included. Draft guides and future work are listed separately in the portfolio.
+**[Explore my projects and evidence →](https://github.com/DSGTEC11/it-portfolio)**
 
-**Open to entry-level help desk and IT support opportunities.**
+I'm open to **entry-level help desk and IT support roles**.
